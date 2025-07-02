@@ -1,5 +1,5 @@
 alert("Welcomme to Royal Crest Resturent");
-let food = +prompt("Chose Dish: \n 1.Rcse \n 2.Pizza ");
+let food = +prompt("Chose Dish: \n 1.Rice \n 2.Pizza ");
 if (food == 1) {
   console.log("Rise");
   let rice = +prompt("Chose Rice: \n 1.Biryani \n 2.Pilaow");
